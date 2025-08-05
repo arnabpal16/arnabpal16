@@ -18,8 +18,7 @@
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1ZX5p-iDmzbeXsXXe-Kd16bP8oi49c6mW/view?usp=sharing)
 
 ⚡ **Fun facts:**
-- I still get excited every time a project runs without throwing an exception 😄  
-- I once spent 30 minutes debugging — only to realize I forgot a semicolon 😅
+- I generated this readme using chatgpt 😄 
 
 ---
 
